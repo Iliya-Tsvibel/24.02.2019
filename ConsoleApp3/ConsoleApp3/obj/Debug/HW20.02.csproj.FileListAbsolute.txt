@@ -1,0 +1,7 @@
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\HW20.02.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\HW20.02.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\itsvibel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
