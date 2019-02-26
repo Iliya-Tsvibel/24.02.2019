@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Model>mitzubisi</Model>
+    <Brand>6</Brand>
+    <Year>2015</Year>
+    <Color>metalic</Color>
+  </Car>
+  <Car>
+    <Model>toyota</Model>
+    <Brand>5</Brand>
+    <Year>1600</Year>
+    <Color>black</Color>
+  </Car>
+  <Car>
+    <Model>lada</Model>
+    <Brand>5</Brand>
+    <Year>2009</Year>
+    <Color>red</Color>
+  </Car>
+</ArrayOfCar>
