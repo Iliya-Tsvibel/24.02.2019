@@ -74,7 +74,7 @@ namespace ConsoleApp7
         public static void SerializeACarArray(string fileName, Car[] cars)
         {
             XmlSerializer myxmlSerializer = new XmlSerializer(typeof(Car[]));
-            using (Stream file = new FileStream($@"c:\{fileName}\IliyaCar.xml", FileMode.Create))
+            using (Stream file = new FileStream($@"c:\{fileName}\IliyaCarArray.xml", FileMode.Create))
             {
                 myxmlSerializer.Serialize(file, cars);
             } // auto-closing the string
